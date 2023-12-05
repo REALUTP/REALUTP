@@ -131,11 +131,11 @@ h3 {
 #footer img{
   position: relative;
   top: 10px;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 img{
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 .logo2 {
